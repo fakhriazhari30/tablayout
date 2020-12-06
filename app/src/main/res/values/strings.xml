@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">TabLayout2</string>
+<<<<<<< HEAD
     <string name="frag2">Halaman Draft</string>
+=======
+    <string name="frag3">Halaman Sent</string>
+>>>>>>> wina
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
