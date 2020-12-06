@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">TabLayout2</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="frag2">Halaman Draft</string>
 =======
     <string name="frag3">Halaman Sent</string>
 >>>>>>> wina
+=======
+    <string name="frag1">Halaman Inbox</string>
+>>>>>>> fahri
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
